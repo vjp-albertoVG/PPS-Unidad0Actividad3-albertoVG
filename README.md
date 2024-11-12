@@ -62,13 +62,18 @@ Utilizamos el comando en la consola git init y ponemos el nombre del repositorio
 Para crear todos los archivos y directorios que necesitamos tenemos que poner los comando nano (nombre del fichero) y mkdir (nombre del directorio).
 ![](imagenes/Imagen2.png)
 3. Comprueba el estado ``git status``
-
-4. Añade los diferentes archivos y carpetas ``git add ``o ``git add -A``
-5. Modifica algún archivo y vuelves a comprobar su estado.
-6. Haz un ``commit``como comentario indica que es la creación de archivos y vuelves a comprobar su estado
+Al hacer git status nos salen todos los documentos que hemos creado.
+![](imagenes/Imagen3.png)
+5. Añade los diferentes archivos y carpetas ``git add ``o ``git add -A``
+El comando git add -A nos añade todos los documentos y nos lo pone para que hagamos el comit.
+![](imagenes/Imagen4.png)
+7. Modifica algún archivo y vuelves a comprobar su estado.
+8. Haz un ``commit``como comentario indica que es la creación de archivos y vuelves a comprobar su estado
+Cuando hacemos el commit nos salen los documentos que se han comiteado.
+![](imagenes/Imagen5.png)
 En esta imagen podemos ver todos los comando de git que hemos utilizado.
 ![](imagenes/Comandos_gitconfig.png)
-8. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente.
+10. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente.
 ![](imagenes/imagenfinal.png)
 
 # Entrega de la actividad
