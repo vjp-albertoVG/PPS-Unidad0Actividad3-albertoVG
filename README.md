@@ -27,7 +27,7 @@ Para realizar la actividad te sugiero que sigas el documento de Victor Ponz que 
 Los pasos a realizar son los siguientes
 
 1. Abre una cuenta en Github.com con tu cuenta de @informatica.iesvalledeljerteplasencia.es.
-
+La cuenta la tenia creada de cuando estaba en 1º de ASIR
 2. Instala git y php en tu equipo.
 
 3. Configura tu cuenta y git correctamente.
