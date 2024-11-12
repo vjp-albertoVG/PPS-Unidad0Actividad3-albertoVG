@@ -28,9 +28,9 @@ Los pasos a realizar son los siguientes
 
 1. Abre una cuenta en Github.com con tu cuenta de @informatica.iesvalledeljerteplasencia.es.
 La cuenta la tenia creada de cuando estaba en 1º de ASIR
-2. Instala git y php en tu equipo.
+3. Instala git y php en tu equipo.
 
-3. Configura tu cuenta y git correctamente.
+4. Configura tu cuenta y git correctamente.
 > - Recuerda que tienes que crear una clave y añadirla en git [puedes consultar 
 éste artículo](https://juncotic.com/repositorios-git-ssh/) 
 
