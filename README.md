@@ -66,7 +66,10 @@ Para crear todos los archivos y directorios que necesitamos tenemos que poner lo
 4. Añade los diferentes archivos y carpetas ``git add ``o ``git add -A``
 5. Modifica algún archivo y vuelves a comprobar su estado.
 6. Haz un ``commit``como comentario indica que es la creación de archivos y vuelves a comprobar su estado
-7. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente.
+En esta imagen podemos ver todos los comando de git que hemos utilizado.
+![](imagenes/Comandos_gitconfig.png)
+8. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente.
+![](imagenes/imagenfinal.png)
 
 # Entrega de la actividad
 En esta entrega deberas de haber modificado los archivos:
